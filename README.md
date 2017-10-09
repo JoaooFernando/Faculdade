@@ -6,4 +6,4 @@ Meus estudos com foco na faculdade.
      
 2) Jogo Da Velha desenvolvido como um estudo para aperfeiçoar a lógica de programção, utilizando os conhecimentos recebidos até o momento do desenvolvimento.
 
-3)Jogos Jogados é uma lista dos jogos que joguei durante minha vida, muitos acabei esquecendo e acabei não colocando, alguns não foram cem por cento zerados, mas sempre tirei um bom proveito de todos.
+3) Jogos Jogados é uma lista dos jogos que joguei durante minha vida, muitos acabei esquecendo e acabei não colocando, alguns não foram cem por cento zerados, mas sempre tirei um bom proveito de todos.
